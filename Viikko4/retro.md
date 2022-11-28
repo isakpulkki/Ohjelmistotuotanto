@@ -1,0 +1,5 @@
+# Retrospektiivitekniikat
+
+Start, Stop, Continue, More of, Less of Wheel -tekniikassa pidetään 10-25 minuuttia, riippuen ryhmänkoosta, kestäviä retrospektiivejä jossa piirretään ympyrä johonkin paperille, ja kirjoitetaan siihen kirjoitetaan sanat Start, Stop, Continue, More of, Less of Wheel, jotka symboloi 5 eri kategoriaa. Start -kohdassa voisi miettiä mitä pitäisi seuraavaksi aloittaa tekemään. Stop -kohdassa mietitään, minkä asian tekeminen pitäisi lopettaa. Continue -kohta kertoo taas mitä asioita kannattaisi jatkaa jne. 
+
+Glad, Sad, Mad -tekniikassa pidetään noin tunnin mittaisia tapaamisia. Tässä tekniikassa muutokset, ongelmakohdat tai muut huomionarvoiset asiat kirjoitetaan ylös, ja sen jälkeen ne kategorisoidaan Glad, Sad tai Mad -luokkiin. Nämä asiat sitten arvostellaan muiden tiimiläisten toimesta, ja lopuksi saadaan taso sille, mitkä asiat ovat tärkeimpiä käsitellä tiimin voimin. Nämä käsitellään tärkeimmästä vähiten tärkeään asiaan, ja niitä käsitellään siihen asti että aika loppuu.

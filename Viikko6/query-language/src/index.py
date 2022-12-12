@@ -1,4 +1,4 @@
-from statistics_ import Statistics
+from statistics import Statistics
 from player_reader import PlayerReader
 from matchers import *
 from querybuilder import QueryBuilder
